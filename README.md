@@ -6,7 +6,7 @@
 #  Rankdit
 Web services for Mobile app for Video social Network , these services to login users , Register users &amp; post Video data to Amazon S3 storage , this app not completed yet 
 ## Installation
-TODO: you should have vNext dnvm "dot net version manager" to manage your packages , run `dnv restore` to download all the required packages , then run it using visual studio 2015 or `dnx web` 
+you should have vNext dnvm "dot net version manager" to manage your packages , run `dnv restore` to download all the required packages , then run it using visual studio 2015 or `dnx web` 
 
 ## Contributing
 1. Fork it!
